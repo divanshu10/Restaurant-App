@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+.heading{
+    margin-bottom: 5px;
+}
+.p1{
+    justify-content: center;
+    margin: 10px;
+}
+.p2{
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    /* border-radius: 15px; */
+    /* border: 1px solid ; */
+}
